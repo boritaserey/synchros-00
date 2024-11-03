@@ -6,7 +6,7 @@
 - 🌍 Based in Phnom Penh, Cambodia.
 - 🔧 **Skills:**  
 - Python (Advanced Beginner), Java (Intermediate)
-- Data Analysis (Developing), Web Development (Basics) 
+- Data Analysis (Developing), Web Development (Developing) 
 
 <!---
 synchros-09/synchros-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
